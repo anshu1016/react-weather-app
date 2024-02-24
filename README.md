@@ -3,6 +3,9 @@
 
 This is a simple weather application built using React, Tailwind CSS, and the OpenWeather API. It allows users to fetch weather information for a specific city by entering its name or by providing coordinates.
 
+<img width="960" alt="image" src="https://github.com/anshu1016/react-weather-app/assets/69161719/8af91641-4029-4017-bcad-6056466fe619">
+
+
 # Features
 
 1. Input fields for entering city name or coordinates (latitude and longitude).

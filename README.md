@@ -1,3 +1,26 @@
+
+# React Weather App
+
+This is a simple weather application built using React, Tailwind CSS, and the OpenWeather API. It allows users to fetch weather information for a specific city by entering its name or by providing coordinates.
+
+# Features
+
+1. Input fields for entering city name or coordinates (latitude and longitude).
+2. Buttons to fetch weather data based on user input.
+3. Display of weather information such as temperature, humidity, wind speed, etc.
+4. Icons from Unicon for visual representation of weather conditions.
+
+# Technologies Used:
+1. React
+2. Tailwind CSS
+3. OpenWeather API
+4. Unicon Icons
+
+# API LINK[](https://api.weatherapi.com/v1/current.json?key=4d49c1675dde4cfdb9f61714242402&q=London&aqi=no)
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

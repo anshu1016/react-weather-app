@@ -1,7 +1,7 @@
 import { DateTime } from "luxon";
 
 const API_KEY = "4d49c1675dde4cfdb9f61714242402"
-const BASE_URL = "http://api.weatherapi.com/v1/forecast.json"
+const BASE_URL = "https://api.weatherapi.com/v1/forecast.json"
 
 
 const getWeatherData = (searchParams) =>{
